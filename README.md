@@ -23,7 +23,7 @@ The NEMA [control logic board](https://github.com/dzid26/StepperServo-hardware) 
 The central idea of this project was the concept that the support point of the module is not in the car frame but is instead bearing-mounted around the steering shaft itself, supported by the control arm, with the steering shaft being driven by a NEMA17 stepper motor.
 
 Animation of the E39steerModule assembly:
-https://github.com/killinen/E39steerModule/assets/37126045/205e2307-dc31-4e0f-b9c0-4056a430bf1e.mp4
+https://github.com/killinen/E39steerModule/assets/37126045/205e2307-dc31-4e0f-b9c0-4056a430bf1e
 
 The design has been parametirized so that the shaft diamemter and the bearing size can in some extetend be changed, and some other things.
 --> Picture
