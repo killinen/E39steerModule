@@ -24,7 +24,8 @@ The central idea of this project was the concept that the support point of the m
 
 Animation of the E39steerModule assembly:
 
-https://github.com/killinen/E39steerModule/assets/37126045/5533153f-6e84-4e8c-be91-c2822c8fe5ba
+https://github.com/killinen/E39steerModule/assets/37126045/f650a476-6907-45d7-89ee-340f917e1412
+
 
 
 The design has been parametirized so that the shaft diamemter and the bearing size can in some extetend be changed, and some other things.
