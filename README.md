@@ -7,7 +7,7 @@ This project was created to solve the need for a MY99 BMW 540i (E39) to be able 
 
 ### Disclaimer
 
-The E39steerModule is created by fellow that have no knowledge of any kind on automotive, material, mechanical or elecrical engineering, nor I am a 3D-designer of anykind. I just like do stuff and get things done. If ever someone tries to implement this, keep in mind that it is designed to intentionally kill you.
+The E39steerModule is created by fellow that have no knowledge of any kind on automotive, material, mechanical or elecrical engineering, nor I am a 3D-designer. I just like do stuff and get things done. If someone ever tries to implement this, keep in mind that it is designed to intentionally kill you.
 
 The designs in different pictures may vary and confusing as f. This is just me being lazy, but it seems there has been some development done.
 
@@ -27,9 +27,7 @@ Animation of the E39steerModule assembly:
 
 https://github.com/killinen/E39steerModule/assets/37126045/f650a476-6907-45d7-89ee-340f917e1412
 
-
-
-The design has been parametirized so that the shaft diamemter and the bearing size can in some extetend be changed, and some other things.
+The design has been parametirized so that the shaft diamemter and the bearing size can in some extetend be changed, and some other things. This gives the ability to tune the design and maybe be used in some other car/system.
 --> Picture
 
 
@@ -37,6 +35,14 @@ The shaft diameter and module length will be engraved onto side of the module. T
 -->  Picture
 
 The module is built from 110 mm M5 threaded rods, 686ZZ bearings, 58x6 mm steel rods, and a 3D-printed case made of PETG with a layer height of 0.2 mm, a wall thickness of 1.2 mm, and top and bottom 'layers'. Additionally, there are 2 mm steel plates at the ends of the case, and the control arm is constructed from 4 mm flat bar.
+
+The module is installed to the E39 steering shaft between the steering column and firewall. The steering shaft luckily has an teething in one part of the shaft where the shaft gear is installed. The E39steermodule is placed under the teething and is resting on a sleeve that is coming out of the firewall and is aroud the steering shaft.
+
+--> Pictures
+
+The E39steerModule control arm goes up to cars chassis where is steering columns bolted joint. This keeps the module inplace, so it won't start rotating when the shaft or motor is driven.
+
+--> Picture
 
 ---
 
