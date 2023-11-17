@@ -17,6 +17,7 @@ The designs in different pictures may vary and confusing as f. This is just me b
 
 The NEMA [control logic board](https://github.com/dzid26/StepperServo-hardware) and [firmware](https://github.com/dzid26/StepperServoCAN) that I use, is created by dzid26.
 
+---
 
 ### Design
 
@@ -36,6 +37,8 @@ The shaft diameter and module length will be engraved onto side of the module. T
 -->  Picture
 
 The module is built from 110 mm M5 threaded rods, 686ZZ bearings, 58x6 mm steel rods, and a 3D-printed case made of PETG with a layer height of 0.2 mm, a wall thickness of 1.2 mm, and top and bottom 'layers'. Additionally, there are 2 mm steel plates at the ends of the case, and the control arm is constructed from 4 mm flat bar.
+
+---
 
 ### Outro
 
