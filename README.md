@@ -1,5 +1,4 @@
 # E39steerModule
----
 
 This project was created to solve the need for a MY99 BMW 540i (E39) to be able to steer using the semi-autonomous driving software OPENPILOT.
 
