@@ -63,4 +63,7 @@ The E39steerModule control arm goes up to cars chassis where is steering columns
 
 I haven't really done enough testing to say that this is any good, but for a short drive, it works ok.
 
---> Video
+https://github.com/killinen/E39steerModule/assets/37126045/6e7ec804-1adb-46d0-a014-d352c33e2bd3
+
+
+
