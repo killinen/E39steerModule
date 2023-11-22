@@ -10,6 +10,8 @@ The E39steerModule is created by fellow that have no knowledge of any kind on au
 
 The designs in different pictures may vary and confusing as f. This is just me being lazy, but at least it gives the impression that some development have been done.
 
+The E39steerModuleCase v1.f3d design might be broken because I deleted a lot of stuff from it to be more clean and haven't tested it.
+
 ---
 
 ### Credit
