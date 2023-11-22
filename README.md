@@ -16,7 +16,7 @@ The E39steerModuleCase v1.f3d design might be broken because I deleted a lot of 
 
 ### Credit
 
-The NEMA [control logic board](https://github.com/dzid26/StepperServo-hardware) and [firmware](https://github.com/dzid26/StepperServoCAN) that I use, is created by dzid26.
+The NEMA [control logic board](https://github.com/dzid26/StepperServo-hardware) and [firmware](https://github.com/dzid26/StepperServoCAN) that I use, is created by dzid26, and this project probably would have not "finished" without his work.
 
 ---
 
