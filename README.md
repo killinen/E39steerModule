@@ -1,6 +1,20 @@
 # E39steerModule
 
-This project was created to solve the need for a MY99 BMW 540i (E39) to be able to steer using the semi-autonomous driving software OPENPILOT.
+This project was created to solve the need for a MY99 BMW 540i (E39) to be able to steer using the semi-autonomous driving software openpilot.
+
+Openpilot is an open source driver assistance system that offers Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models. To function properly, openpilot needs to be able to control the longitudinal (gas and brake) and lateral (steering) movements of the car using the CAN bus. For more information, see https://comma.ai/ and https://github.com/commaai/openpilot.
+
+[![](https://i3.ytimg.com/vi/NmBfgOanCyk/maxresdefault.jpg)](https://youtu.be/NmBfgOanCyk)
+
+My system is based on openpilot v0.8.2 and features stop-and-go capability achieved through the [BrakeModule](https://github.com/killinen/BrakeModule), which controls braking, and a device similar to the [Comma](https://youtu.be/3z-Izl-ve5o?si=7oRMfNvz600YJCA-) [Pedal](https://github.com/commaai/openpilot/wiki/comma-pedal), which manages acceleration. The E39steerModule is connected to same CAN network that these devices and receives steering torque values from openpilot, which determine the rotation of the steering wheel. I also track the Nema rotation (angle) relation to the steering shaft rotation and if there is too big of a difference get a warning to check the module assembly.
+
+As the actuator motor I use [this](https://www.aliexpress.com/item/4001349087963.html) NEMA17 motor with 5.18 gear ratio. With the motor/steering shaft gear ratio of 2 the end torque applied to the steershaft is approx 12 Nm.
+
+---
+
+### Credit
+
+The NEMA [control logic board](https://github.com/dzid26/StepperServo-hardware) and [firmware](https://github.com/dzid26/StepperServoCAN) that I use, is created by dzid26, and this project probably would't come to fruition without his work.
 
 ---
 
@@ -14,15 +28,9 @@ The E39steerModuleCase v1.f3d design might be broken because I deleted a lot of 
 
 ---
 
-### Credit
+### Case design
 
-The NEMA [control logic board](https://github.com/dzid26/StepperServo-hardware) and [firmware](https://github.com/dzid26/StepperServoCAN) that I use, is created by dzid26, and this project probably would have not "finished" without his work.
-
----
-
-### Design
-
-The central idea of this project was the concept that the support point of the module is not in the car frame but is instead bearing-mounted around the steering shaft itself, supported by the control arm, with the steering shaft being driven by a NEMA17 stepper motor.
+The central idea of this project was the concept that the support point of the module case is not in the car frame but is instead bearing-mounted around the steering shaft itself, supported by the control arm, with the steering shaft being driven by a NEMA17 stepper motor.
 
 Animation of the E39steerModule assembly:
 
@@ -61,7 +69,7 @@ The E39steerModule control arm goes up to cars chassis where is steering columns
 
 ### Outro
 
-I haven't really done enough testing to say that this is any good, but for a short drive, it works ok.
+I haven't really done enough testing to say that this module is any good, but for a short drive, it works ok.
 
 https://github.com/killinen/E39steerModule/assets/37126045/6e7ec804-1adb-46d0-a014-d352c33e2bd3
 
