@@ -30,7 +30,7 @@ The E39steerModuleCase v1.f3d design might be broken because I deleted a lot of 
 
 ### Case design
 
-The central idea of this project was the concept that the support point of the module case is not in the car frame but is instead bearing-mounted around the steering shaft itself, supported by the control arm, with the steering shaft being driven by a NEMA17 stepper motor.
+The key concept behind this project involves placing the primary support point of the module case not within the car frame but, instead, bearing-mounting it around the steering shaft. This configuration is supported by the control arm, with the steering shaft being driven by a NEMA17 stepper motor.
 
 Animation of the E39steerModule assembly:
 
