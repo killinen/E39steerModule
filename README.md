@@ -44,7 +44,7 @@ The design has been parametrized so that the shaft diameter and the bearing size
 
 
 
-The shaft diameter and distance between steering shaft and Nema gearbox shaft (distance between gears) will be engraved onto side of the case. This was made to help with prototyping to keep on track which parts you have in hand, because with 3D-printing you have to adjust these values to get the fit really right or make those variables too tight and then use shim plates to adjust to correct tolerances.
+The shaft diameter and distance between steering shaft and Nema gearbox shaft (distance between gears) is engraved onto side of the case. This was made to help with prototyping to keep on track which parts you have in hand, because with 3D-printing you have to adjust these values to get the fit really right or make those variables too tight and then use shim plates to adjust to correct tolerances.
 
 ![Case_engravings](https://github.com/killinen/E39steerModule/assets/37126045/ab277f7c-30d0-4e6d-868f-dddd649c0cf2)
 
