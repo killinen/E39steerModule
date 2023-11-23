@@ -22,7 +22,7 @@ The NEMA [control logic board](https://github.com/dzid26/StepperServo-hardware) 
 
 The E39steerModule is created by fellow that have no knowledge of any kind on automotive, material, mechanical or elecrical engineering, nor I am a 3D-designer. I just like do stuff and get things done. If someone ever tries to implement this, keep in mind that it is designed to intentionally kill you.
 
-The designs in different pictures may vary and confusing as f. This is just me being lazy, but at least it gives the impression that some development have been done.
+The designs in different pictures may vary and is confusing as f. This is just me being lazy, but at least it gives the impression that some development have been done.
 
 The E39steerModuleCase v1.f3d design might be broken because I deleted a lot of stuff from it to be more clean and haven't tested it.
 
@@ -69,7 +69,7 @@ The E39steerModule control arm goes up to cars chassis where is steering columns
 
 ### Outro
 
-I haven't really done enough testing to say that this module is any good, but for a short drive, it works ok.
+I haven't done enough testing to say that this module is good for a million miles, but for a short drive, it works ok.
 
 https://github.com/killinen/E39steerModule/assets/37126045/6e7ec804-1adb-46d0-a014-d352c33e2bd3
 
