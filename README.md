@@ -8,7 +8,7 @@ Openpilot is an open source driver assistance system that offers Automated Lane 
 
 My system is based on openpilot v0.8.2 and features stop-and-go capability achieved through the [BrakeModule](https://github.com/killinen/BrakeModule), which controls braking, and a device similar to the [Comma](https://youtu.be/3z-Izl-ve5o?si=7oRMfNvz600YJCA-) [Pedal](https://github.com/commaai/openpilot/wiki/comma-pedal), which manages acceleration. The E39steerModule is connected to same CAN network that these devices and receives steering torque values from openpilot, which determine the rotation of the steering wheel. I also track the Nema rotation (angle) relation to the steering shaft rotation and if there is too big of a difference get a warning to check the module assembly.
 
-As the actuator motor I use [this](https://www.aliexpress.com/item/4001349087963.html) NEMA17 motor with 5.18 gear ratio. With the motor/steering shaft gear ratio of 2 the end torque applied to the steershaft is approx 12 Nm.
+As the actuator motor I use [this](https://www.aliexpress.com/item/4001349087963.html) NEMA17 motor with 5.18 gear ratio. With the motor/steering shaft gear ratio of 2 the end torque applied to the steering shaft is approx 12 Nm.
 
 ---
 
