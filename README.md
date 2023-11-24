@@ -38,7 +38,7 @@ https://github.com/killinen/E39steerModule/assets/37126045/f650a476-6907-45d7-89
 
 <br />
 
-The design has been parametrized so that the shaft diameter and the bearing size can in some extetend be changed, along with some other things. This gives the ability to tune the design and maybe be used in some other car/system.
+The design has been parametrized so that the steering shaft diameter, case heigth and the bearing size can in some extetend be changed, along with some other things. This gives the ability to tune the design and maybe be used in some other car/system.
 
 ![User_parameters](https://github.com/killinen/E39steerModule/assets/37126045/4bd57aa8-7b20-4dc0-b0dc-f16660cb3d7c)
 
