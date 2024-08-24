@@ -2,6 +2,8 @@
 
 This project was created to solve the need for a MY99 BMW 540i (E39) to be able to steer using the semi-autonomous driving software openpilot.
 
+This project has ended for me because, unfortunately, I no longer have the car. However, this was definitely fun to do.
+
 Openpilot is an open source driver assistance system that offers Automated Lane Centering and Adaptive Cruise Control for over 200 supported car makes and models. To function properly, openpilot needs to be able to control the longitudinal (gas and brake) and lateral (steering) movements of the car using the CAN bus. For more information, see https://comma.ai/ and https://github.com/commaai/openpilot.
 
 [![](https://i3.ytimg.com/vi/NmBfgOanCyk/maxresdefault.jpg)](https://youtu.be/NmBfgOanCyk)
